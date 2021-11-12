@@ -1,0 +1,11 @@
+{
+  "name": "websocket-client",
+  "version": "1.0.0",
+  "description": "Simple Websocket client",
+  "main": "index.js",
+  "author": "Vinh-Phuc",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.2.3"
+  }
+}
